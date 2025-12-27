@@ -7,7 +7,7 @@
 </head>
 <body>
 <div class="container mt-4">
-<h2>Products11</h2>
+<h2>Products</h2>
 <div class="row">
 <?php
 $q=mysqli_query($conn,"SELECT * FROM products");
